@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-08T14:55:27-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gabefgonc Blog</title><subtitle>Hi, my name is Gabriel Franco, in this blog i'm going to post some tutorials and other things about the technologies i'm using.</subtitle><entry><title type="html">How my downloader works and why you should use it</title><link href="http://localhost:4000/2020/08/08/How-my-downloader-works-and-why-you-should-use-it.html" rel="alternate" type="text/html" title="How my downloader works and why you should use it" /><published>2020-08-08T00:00:00-03:00</published><updated>2020-08-08T00:00:00-03:00</updated><id>http://localhost:4000/2020/08/08/How-my-downloader-works-and-why-you-should-use-it</id><content type="html" xml:base="http://localhost:4000/2020/08/08/How-my-downloader-works-and-why-you-should-use-it.html">&lt;p&gt;I created a python script called Downloader, which exposes files in some directory to download.
-It is very simple, but useful. You can change the page title, exclude some files from the list,
-and, obviously, change the directory that contains the files you want to serve.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-11-11T11:02:35-03:00</updated><id>/feed.xml</id><title type="html">Gabefgonc Blog</title><subtitle>Hi, my name is Gabriel Franco, in this blog i'm going to post some tutorials and other things about the technologies i'm using.</subtitle><entry><title type="html">Meu Novo Projeto, Islands New Era</title><link href="/2020/11/11/Meu-novo-projeto,-Islands-New-Era.html" rel="alternate" type="text/html" title="Meu Novo Projeto, Islands New Era" /><published>2020-11-11T00:00:00-03:00</published><updated>2020-11-11T00:00:00-03:00</updated><id>/2020/11/11/Meu-novo-projeto,-Islands-New-Era</id><content type="html" xml:base="/2020/11/11/Meu-novo-projeto,-Islands-New-Era.html">&lt;p&gt;Fala, pessoal! Tudo beleza? Bom, eu sou Gabriel Franco, e vou te mostrar o meu novo projeto neste post.&lt;/p&gt;
 
-&lt;h2 id=&quot;how-does-it-work&quot;&gt;How does it work&lt;/h2&gt;</content><author><name></name></author><summary type="html">I created a python script called Downloader, which exposes files in some directory to download. It is very simple, but useful. You can change the page title, exclude some files from the list, and, obviously, change the directory that contains the files you want to serve.</summary></entry></feed>
+&lt;h1 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h1&gt;
+
+&lt;p&gt;Islands: New Era é um jogo de simulação de cidade e aventura que estou desenvolvendo.
+Não comecei a desenvolver ainda, pois ainda tenho que dominar a linguagem C# e o framework MonoGame, criando um jogo que seria um clone de Among Us, jogo que eu imagino que você conheça.
+Em islands, você tem que construir uma cidade menos urbanizada em uma ilha, a pedido da presidenta do país onde vive. Entre histórias boas e ruins, no jogo acontecem debates com manifestantes, discordância entre Ravi (protagonista, prefeito da ilha) e Caroline Bastian (presidenta do país)&lt;/p&gt;
+
+&lt;h1 id=&quot;mecânicas&quot;&gt;Mecânicas&lt;/h1&gt;
+
+&lt;p&gt;O jogo terá mecânicas como: Dinheiro, Construções da cidade, remoção de obstáculos e mais.&lt;/p&gt;
+
+&lt;h1 id=&quot;processo-de-criação-do-jogo&quot;&gt;Processo de criação do jogo&lt;/h1&gt;
+
+&lt;p&gt;Como já falei, o jogo vai ser feito em C# e MonoGame, e os graficos vão ser feitos em pixel art.&lt;/p&gt;
+
+&lt;h1 id=&quot;meu-preconceito-com-c&quot;&gt;Meu preconceito com C#&lt;/h1&gt;
+
+&lt;p&gt;Antes de fazer o curso que estou fazendo na udemy, tinha muito preconceito com C#. Para os que não sabem, C# é uma linguagem de programação da Microsoft, e é por ser dessa empresa que eu tinha preconceito. Eu achava que só rodava no Windows. Erro número 1. E eu também achava que a linguagem era limitada. Erro número 2. A linguagem é super completa em todos os quesitos, a não ser a parte de que a compilação é um pouco lenta, por ser um processo de compilação híbrido. E ela roda em muitas plataformas com o Mono por exemplo, uma implementação do DotNet FrameWork multiplaforma.&lt;/p&gt;
+
+&lt;h1 id=&quot;entre-no-nosso-servidor-do-discord&quot;&gt;Entre no nosso servidor do discord!&lt;/h1&gt;
+
+&lt;p&gt;Entre &lt;a href=&quot;https://discord.gg/fcpJkYg&quot;&gt;aqui&lt;/a&gt; para receber atualizações mais novas sobre o Islands!&lt;/p&gt;</content><author><name></name></author><summary type="html">Fala, pessoal! Tudo beleza? Bom, eu sou Gabriel Franco, e vou te mostrar o meu novo projeto neste post.</summary></entry></feed>

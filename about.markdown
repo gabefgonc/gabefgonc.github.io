@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 
-Hi, welcome to my blog! My name is [Gabriel Franco][github-profile], i live in Brazil and i love
-Python, C++ and JavaScript! Here i am going to post tutorials and other stuff i find cool.
+Olá, seja bem vindo ao meu blog! Eu sou [Gabriel Franco][github-profile], Moro no Brasil e gosto muito de Python, C# e C++.
 
 Happy Hacking!!
 
