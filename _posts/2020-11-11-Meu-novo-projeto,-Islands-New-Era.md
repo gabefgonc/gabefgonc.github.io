@@ -1,6 +1,5 @@
 ---
-layout: default
-comments: true
+layout: post
 ---
 
 Fala, pessoal! Tudo beleza? Bom, eu sou Gabriel Franco, e vou te mostrar o meu novo projeto neste post.
